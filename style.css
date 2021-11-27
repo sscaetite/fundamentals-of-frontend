@@ -1,0 +1,9 @@
+img {
+  width: 300px;
+  border-radius: 80px;
+  transition: 0.5s all ease-in-out;
+}
+
+img:hover {
+  width: 320px;
+}
