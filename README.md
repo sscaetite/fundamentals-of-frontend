@@ -1,3 +1,5 @@
+> ### [Link do Discord](https://discord.gg/k2DvXytHKp)
+
 # Os Fundamentos do FrontEnd
 
 ##### A brief explanation of frontend fundamental concepts
