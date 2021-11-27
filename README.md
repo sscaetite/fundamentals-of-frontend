@@ -1,8 +1,7 @@
-> ### [Link do Discord](https://discord.gg/k2DvXytHKp)
-
 # Os Fundamentos do FrontEnd
+### :warning::warning::warning: [Link do Discord](https://discord.gg/k2DvXytHKp) :warning::warning:
 
-##### A brief explanation of frontend fundamental concepts
+##### Um breve compilado de explicações sobre o mundo do FrontEnd
 
 ![Imagem de um gatinho fofo](./gatinho-fofo.jpg)
 
